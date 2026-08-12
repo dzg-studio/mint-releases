@@ -2,7 +2,7 @@
 
 Signed and notarized release DMGs for [Mint](https://mint.dzgapp.com/?utm_source=GitHub&utm_medium=referral&utm_campaign=releases_readme), the on-device Mac cleanup and file organizer from DZG Studio LLC.
 
-Mint cleans storage, releases memory, organizes folders, removes app leftovers, and redacts sensitive documents. File analysis stays on the Mac, changes are review-first, and recoverable operations enter a 90-day journal with Undo. AI agents can drive it safely through the bundled `mint-cli` and its [MCP server](https://github.com/dzg-studio/mcp-server-mint).
+Mint cleans storage, releases memory, organizes folders, removes app leftovers, and redacts sensitive documents. File analysis stays on the Mac, changes are review-first, and operations are recorded in a journal with undo receipts — trash-based actions can be undone from the app while the items remain in the Trash (up to 90 days of history). AI agents can drive it through the bundled `mint-cli` and its [MCP server](https://github.com/dzg-studio/mcp-server-mint), on the same journaled path.
 
 ## Download
 
